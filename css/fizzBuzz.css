@@ -1,0 +1,12 @@
+body {
+    color: #2b2b2b;
+}
+
+#container {
+    width: 80%;
+    margin: 35px auto;
+}
+
+li {
+    margin: 8px 0;
+}
